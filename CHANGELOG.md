@@ -1,5 +1,15 @@
 # Changelog
 
+## [3.16.1](https://github.com/setchy/atlassify/compare/v3.16.0...v3.16.1) (2026-09-16)
+
+
+### 🐛 Bug Fixes
+
+* macos signing patch ([7b84aa5](https://github.com/setchy/atlassify/commit/7b84aa5610904625d6926e8f692baa8efcc5a643))
+* macos signing patch ([98a1ffc](https://github.com/setchy/atlassify/commit/98a1ffcab89546f2a6807da1addabbf3489ff54b))
+* release commenter ([bedd826](https://github.com/setchy/atlassify/commit/bedd826e3b3fb9b91acad528089c04524d128868))
+* release commenter ([d74e8ca](https://github.com/setchy/atlassify/commit/d74e8ca98acec38f62d8386883b1dda3406822a6))
+
 ## [3.16.0](https://github.com/setchy/atlassify/compare/v3.15.0...v3.16.0) (2026-09-15)
 
 
